@@ -1,0 +1,28 @@
+[
+  {
+    "date": "2021-01-31 12:07:23",
+    "totalTipeYangDijual": 3,
+    "totalLaptopYangDijual": 80,
+    "totalHarga": 390000000,
+    "totalKeuntungan": 8000000,
+    "laptopListBackup": {
+      "list": [
+        {
+          "merek": "lenovo",
+          "tipe": "a10",
+          "stok": 10
+        },
+        {
+          "merek": "lenovo",
+          "tipe": "a20",
+          "stok": 60
+        },
+        {
+          "merek": "acer",
+          "tipe": "b10",
+          "stok": 10
+        }
+      ]
+    }
+  }
+]

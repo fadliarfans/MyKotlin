@@ -1,0 +1,11 @@
+many people's health have been damaged as a result of breathing smog every day
+
+our crops of fruit and vegetables are being destroyed because of pollution from cars and trucks
+
+rare plants and wildlife are being harmed through the destruction of rain forest
+
+huge amounts of farmland have been eaten up due to the growth of suburbs
+
+extremely dangerous chemicals is being released by factory chimneys
+
+today computer science is growing so fast. Many new programming language came up from western country. they experts develop new programming language for  more effeciently when creating new program. the example is dart programming language. dart is so powerful. dart created for efficiently and flexibility. dart with flutter(framework) can make cross platform application. we can make android , IOS, Destkop and Windows application just with one programming language. the other advantages using dart is the code styles like human language especialy english language . the example is final, while ,for, then, try, catch, future, await and many more. if we good in english language automaticly we can learn dart programming language fastly. english language also became standart for many programming language. the average of programming language use instruction and notation like english language. so, if we want study computer science with more efficiently, we should learn english language first.

@@ -1,0 +1,35 @@
+[
+  {
+    "merek": "lenovo",
+    "tipe": "a10",
+    "processor": "i3",
+    "ram": 4,
+    "rom": 512,
+    "vga": "gt210",
+    "stok": 0,
+    "harga": 4000000,
+    "date": "2021-01-31 12:02:59"
+  },
+  {
+    "merek": "lenovo",
+    "tipe": "a20",
+    "processor": "i5",
+    "ram": 4,
+    "rom": 512,
+    "vga": "gt210",
+    "stok": 0,
+    "harga": 5000000,
+    "date": "2021-01-31 12:02:59"
+  },
+  {
+    "merek": "acer",
+    "tipe": "b10",
+    "processor": "i7",
+    "ram": 8,
+    "rom": 512,
+    "vga": "gt460",
+    "stok": 0,
+    "harga": 5000000,
+    "date": "2021-01-31 12:03:55"
+  }
+]

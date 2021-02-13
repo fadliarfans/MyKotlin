@@ -1,0 +1,422 @@
+[
+  {
+    "merek": "Lenovo",
+    "tipe": "L420",
+    "processor": "Intel Core i5-2520M",
+    "ram": 4,
+    "rom": 320,
+    "vga": "Intel HD Graphics 3000",
+    "stok": 120,
+    "harga": 2349000
+  },
+  {
+    "merek": "Lenovo",
+    "tipe": "X220",
+    "processor": "Intel Core i5-2430M",
+    "ram": 4,
+    "rom": 220,
+    "vga": "Intel HD Graphics 3000",
+    "stok": 10,
+    "harga": 2899000
+  },
+  {
+    "merek": "Zyrex",
+    "tipe": "232 Prime",
+    "processor": "Intel Celeron N3350 Dual Core",
+    "ram": 3,
+    "rom": 32,
+    "vga": "Intel HD Graphics 500",
+    "stok": 30,
+    "harga": 2900000
+  },
+  {
+    "merek": "Asus",
+    "tipe": "X441BA-GA412T",
+    "processor": "AMD A4-9125 Dual Core",
+    "ram": 4,
+    "rom": 500,
+    "vga": "AMD Radeon R2 Graphics",
+    "stok": 9,
+    "harga": 3550000
+  },
+  {
+    "merek": "Asus",
+    "tipe": "X441MA-GA011T",
+    "processor": "Intel Celeron N4000 Dual Core",
+    "ram": 4,
+    "rom": 1024,
+    "vga": "Intel UHD Graphics 600",
+    "stok": 10,
+    "harga": 3595000
+  },
+  {
+    "merek": "Zyrex",
+    "tipe": "232 Mini",
+    "processor": "Intel Celeron N3350 Dual Core",
+    "ram": 4,
+    "rom": 256,
+    "vga": "Intel HD Graphics 500",
+    "stok": 50,
+    "harga": 3723000
+  },
+  {
+    "merek": "Acer",
+    "tipe": "A314-32",
+    "processor": "Intel Celeron N4000 Dual Core",
+    "ram": 4,
+    "rom": 500,
+    "vga": "Intel UHD Graphics 600",
+    "stok": 13,
+    "harga": 3940000
+  },
+  {
+    "merek": "Dell",
+    "tipe": "15R-5537",
+    "processor": "Intel i5-4200U",
+    "ram": 8,
+    "rom": 500,
+    "vga": "Intel HD Graphics 4400",
+    "stok": 12,
+    "harga": 3950000
+  },
+  {
+    "merek": "Asus",
+    "tipe": "A407MA",
+    "processor": "Intel Celeron N4000",
+    "ram": 4,
+    "rom": 1024,
+    "vga": "Intel UHD Graphics 600",
+    "stok": 14,
+    "harga": 4199000
+  },
+  {
+    "merek": "HP",
+    "tipe": "14-CM0066AU",
+    "processor": "AMD A9-9425 Dual Core",
+    "ram": 4,
+    "rom": 1024,
+    "vga": "AMD Radeon R5",
+    "stok": 9,
+    "harga": 4440000
+  },
+  {
+    "merek": "Lenovo",
+    "tipe": "14AST",
+    "processor": "AMD APU A9-9425",
+    "ram": 4,
+    "rom": 1024,
+    "vga": "AMD Radeon 530",
+    "stok": 50,
+    "harga": 4699000
+  },
+  {
+    "merek": "Asus",
+    "tipe": "E410MA",
+    "processor": "Intel Celeron N4020 ",
+    "ram": 4,
+    "rom": 512,
+    "vga": "Intel UHD Graphics 600",
+    "stok": 16,
+    "harga": 4850000
+  },
+  {
+    "merek": "Lenovo",
+    "tipe": "330-3BID",
+    "processor": "AMD A9-9425 Dual Core",
+    "ram": 4,
+    "rom": 1024,
+    "vga": "AMD Radeon 540",
+    "stok": 10,
+    "harga": 4915000
+  },
+  {
+    "merek": "Asus",
+    "tipe": "X441UA-GA311T",
+    "processor": "Intel Core i3-7020 Dual Core",
+    "ram": 4,
+    "rom": 1024,
+    "vga": "Intel HD Graphics 620",
+    "stok": 11,
+    "harga": 5750000
+  },
+  {
+    "merek": "HP",
+    "tipe": "14-BS503TX",
+    "processor": "Intel Core i3-6006U",
+    "ram": 4,
+    "rom": 1024,
+    "vga": "AMD Radeon 520",
+    "stok": 128,
+    "harga": 6050000
+  },
+  {
+    "merek": "Acer",
+    "tipe": "A514-53",
+    "processor": "Intel Core i3-1005G1",
+    "ram": 4,
+    "rom": 512,
+    "vga": "Intel UHD Graphics",
+    "stok": 11,
+    "harga": 7399000
+  },
+  {
+    "merek": "Lenovo",
+    "tipe": "330S ",
+    "processor": "Intel Core i5-8250U",
+    "ram": 4,
+    "rom": 1024,
+    "vga": "AMD Radeon 535",
+    "stok": 20,
+    "harga": 8499000
+  },
+  {
+    "merek": "Lenovo",
+    "tipe": "V330-14IKB ",
+    "processor": "Intel Core i5-8250U",
+    "ram": 4,
+    "rom": 1024,
+    "vga": "AMD Radeon 530",
+    "stok": 20,
+    "harga": 8599000
+  },
+  {
+    "merek": "Acer",
+    "tipe": "E5-476G ",
+    "processor": "Intel Core i5-8250U",
+    "ram": 4,
+    "rom": 1024,
+    "vga": "nVIDIA GeForce MX150",
+    "stok": 46,
+    "harga": 8699000
+  },
+  {
+    "merek": "Dell",
+    "tipe": "15-5570",
+    "processor": "Intel Core i5-8250U",
+    "ram": 4,
+    "rom": 1024,
+    "vga": "AMD Radeon 530",
+    "stok": 16,
+    "harga": 9099000
+  },
+  {
+    "merek": "HP",
+    "tipe": "15-EC0001AX",
+    "processor": "AMD Ryzen 5-3550H",
+    "ram": 8,
+    "rom": 512,
+    "vga": "nVidia GeForce GTX 1050",
+    "stok": 15,
+    "harga": 9725000
+  },
+  {
+    "merek": "HP",
+    "tipe": "14-ce3010tx",
+    "processor": "Intel Core i5-1035G1",
+    "ram": 8,
+    "rom": 512,
+    "vga": "nVidia GeForce MX250",
+    "stok": 18,
+    "harga": 9897000
+  },
+  {
+    "merek": "HP",
+    "tipe": "13-an0014tu",
+    "processor": "Intel Core i7-8565U",
+    "ram": 8,
+    "rom": 512,
+    "vga": "Intel UHD Graphics 620",
+    "stok": 119,
+    "harga": 10499000
+  },
+  {
+    "merek": "MSI",
+    "tipe": "GF63",
+    "processor": "Intel Core i5-9300H",
+    "ram": 8,
+    "rom": 256,
+    "vga": "Nvidia GeForce GTX 1650 Ti",
+    "stok": 35,
+    "harga": 11276000
+  },
+  {
+    "merek": "Acer",
+    "tipe": "AN515-55",
+    "processor": "Intel Core i5-10300H",
+    "ram": 8,
+    "rom": 512,
+    "vga": "Nvidia GeForce GTX 1650 Ti",
+    "stok": 5,
+    "harga": 12899000
+  },
+  {
+    "merek": "Dell",
+    "tipe": "5391",
+    "processor": "Intel Core i5-10210U",
+    "ram": 8,
+    "rom": 512,
+    "vga": "Nvidia GeForce MX250",
+    "stok": 25,
+    "harga": 13500000
+  },
+  {
+    "merek": "HP",
+    "tipe": "14-BA135TX ",
+    "processor": "Intel Core i7-8550U",
+    "ram": 8,
+    "rom": 1152,
+    "vga": "nVidia GeForce 940MX",
+    "stok": 37,
+    "harga": 14500000
+  },
+  {
+    "merek": "HP",
+    "tipe": "15-EC0022AX",
+    "processor": "AMD Ryzen 7-3750H",
+    "ram": 8,
+    "rom": 1280,
+    "vga": "nVidia GeForce GTX 1660 Ti",
+    "stok": 7,
+    "harga": 14750000
+  },
+  {
+    "merek": "HP",
+    "tipe": "14-cd1042tx",
+    "processor": "Intel Core i7-8565U",
+    "ram": 8,
+    "rom": 1152,
+    "vga": "nVidia GeForce MX130",
+    "stok": 17,
+    "harga": 14935000
+  },
+  {
+    "merek": "HP",
+    "tipe": "13-ar0108au",
+    "processor": "AMD Ryzen 7-3700U",
+    "ram": 16,
+    "rom": 512,
+    "vga": "AMD Radeon RX Vega 10 Graphics",
+    "stok": 68,
+    "harga": 17499000
+  },
+  {
+    "merek": "Dynabook",
+    "tipe": "PMZ20L-0S1022",
+    "processor": "Intel Core i5-10210U",
+    "ram": 8,
+    "rom": 512,
+    "vga": "Intel UHD Graphics 620",
+    "stok": 11,
+    "harga": 19349000
+  },
+  {
+    "merek": "MSI",
+    "tipe": "GL65",
+    "processor": "Intel Core i7-10750H",
+    "ram": 8,
+    "rom": 512,
+    "vga": "Nvidia GeForce GTX 1660 Ti",
+    "stok": 14,
+    "harga": 19499000
+  },
+  {
+    "merek": "Asus",
+    "tipe": "GA401II-R75TA8W",
+    "processor": "AMD Ryzen 7 4800HS",
+    "ram": 8,
+    "rom": 512,
+    "vga": "Nvidia GeForce GTX 1650 Ti",
+    "stok": 13,
+    "harga": 21649000
+  },
+  {
+    "merek": "Alienware",
+    "tipe": "R3",
+    "processor": "Intel Core i7-6820HK",
+    "ram": 16,
+    "rom": 512,
+    "vga": "NVIDIA GeForce GTX 1060",
+    "stok": 11,
+    "harga": 25600000
+  },
+  {
+    "merek": "MSI",
+    "tipe": "A10SC",
+    "processor": "Intel Core i7-10710U",
+    "ram": 16,
+    "rom": 1024,
+    "vga": "Nvidia GeForce GTX 1650 Ti",
+    "stok": 1,
+    "harga": 28485000
+  },
+  {
+    "merek": "Dell",
+    "tipe": "M6800",
+    "processor": "Intel Core i7 4810MQ",
+    "ram": 8,
+    "rom": 500,
+    "vga": "AMD FirePro M6100",
+    "stok": 13,
+    "harga": 50605000
+  },
+  {
+    "merek": "Asus",
+    "tipe": "G703GX",
+    "processor": "Intel Core i7-8750H",
+    "ram": 24,
+    "rom": 1024,
+    "vga": "NVIDIA GeForce RTX 2080",
+    "stok": 10,
+    "harga": 53000000
+  },
+  {
+    "merek": "Razer",
+    "tipe": "15",
+    "processor": "Intel Core i7-8750H",
+    "ram": 32,
+    "rom": 512,
+    "vga": "NVIDIA GeForce RTX 2080",
+    "stok": 26,
+    "harga": 59800000
+  },
+  {
+    "merek": "Gigabyte",
+    "tipe": "15-Y9",
+    "processor": "Intel Core i9-8950HK",
+    "ram": 32,
+    "rom": 2048,
+    "vga": "NVIDIA GeForce RTX 2080",
+    "stok": 5,
+    "harga": 60000000
+  },
+  {
+    "merek": "Alienware",
+    "tipe": "51m",
+    "processor": "Intel Core i9-9900HK",
+    "ram": 64,
+    "rom": 1024,
+    "vga": "NVIDIA GeForce RTX 2080",
+    "stok": 7,
+    "harga": 73000000
+  },
+  {
+    "merek": "Asus",
+    "tipe": "GX800",
+    "processor": "Intel Core i7 7820HK",
+    "ram": 64,
+    "rom": 1536,
+    "vga": "NVIDIA GeForce GTX 1080 SLI",
+    "stok": 7,
+    "harga": 95000000
+  },
+  {
+    "merek": "Asus",
+    "tipe": "GZ700GX-I9R8T",
+    "processor": "Intel Core i9-9980HK",
+    "ram": 64,
+    "rom": 1536,
+    "vga": "NVIDIA GeForce RTX 2080",
+    "stok": 3,
+    "harga": 129999000
+  }
+]

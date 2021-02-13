@@ -1,0 +1,176 @@
+[
+  {
+    "date": "2021-01-09 08:37:24.126",
+    "totalTipeYangDibeli": 2,
+    "totalLaptopYangDibeli": 15,
+    "totalHarga": 2000000
+  },
+  {
+    "date": "2021-01-09 08:38:33.577",
+    "totalTipeYangDibeli": 2,
+    "totalLaptopYangDibeli": 19,
+    "totalHarga": 6000000
+  },
+  {
+    "date": "2021-01-09 08:47:55.276",
+    "totalTipeYangDibeli": 1,
+    "totalLaptopYangDibeli": 15,
+    "totalHarga": 22500000
+  },
+  {
+    "date": "2021-01-09 09:26:30.529",
+    "totalTipeYangDibeli": 1,
+    "totalLaptopYangDibeli": 3,
+    "totalHarga": 12000000
+  },
+  {
+    "date": "2021-01-09 09:28:32.604",
+    "totalTipeYangDibeli": 2,
+    "totalLaptopYangDibeli": 11,
+    "totalHarga": 44000000
+  },
+  {
+    "date": "2021-01-09 09:30:33.597",
+    "totalTipeYangDibeli": 2,
+    "totalLaptopYangDibeli": 13,
+    "totalHarga": 52000000
+  },
+  {
+    "date": "2021-01-09 09:32:42.190",
+    "totalTipeYangDibeli": 2,
+    "totalLaptopYangDibeli": 10,
+    "totalHarga": 40000000
+  },
+  {
+    "date": "2021-01-11 19:45:43.374",
+    "totalTipeYangDibeli": 1,
+    "totalLaptopYangDibeli": 3,
+    "totalHarga": 31497000
+  },
+  {
+    "date": "2021-01-11 19:46:27.735",
+    "totalTipeYangDibeli": 3,
+    "totalLaptopYangDibeli": 15,
+    "totalHarga": 217500000
+  },
+  {
+    "date": "2021-01-11 19:49:39.545",
+    "totalTipeYangDibeli": 3,
+    "totalLaptopYangDibeli": 60,
+    "totalHarga": 884300000
+  },
+  {
+    "date": "2021-01-11 19:50:16.791",
+    "totalTipeYangDibeli": 2,
+    "totalLaptopYangDibeli": 20,
+    "totalHarga": 242250000
+  },
+  {
+    "date": "2021-01-11 20:01:30.674",
+    "totalTipeYangDibeli": 3,
+    "totalLaptopYangDibeli": 151,
+    "totalHarga": 1273449000
+  },
+  {
+    "date": "2021-01-11 20:04:29.597",
+    "totalTipeYangDibeli": 2,
+    "totalLaptopYangDibeli": 10,
+    "totalHarga": 104990000
+  },
+  {
+    "date": "2021-01-11 20:05:22.880",
+    "totalTipeYangDibeli": 3,
+    "totalLaptopYangDibeli": 1,
+    "totalHarga": 10499000
+  },
+  {
+    "date": "2021-01-11 20:45:26.925",
+    "totalTipeYangDibeli": 10,
+    "totalLaptopYangDibeli": 100,
+    "totalHarga": 603910000
+  },
+  {
+    "date": "2021-01-11 22:49:41.564",
+    "totalTipeYangDibeli": 2,
+    "totalLaptopYangDibeli": 10,
+    "totalHarga": 84990000
+  },
+  {
+    "date": "2021-01-13 21:28:45.719",
+    "totalTipeYangDibeli": 1,
+    "totalLaptopYangDibeli": 10,
+    "totalHarga": 39500000
+  },
+  {
+    "date": "2021-01-13 21:41:53.672",
+    "totalTipeYangDibeli": 1,
+    "totalLaptopYangDibeli": 15,
+    "totalHarga": 72750000
+  },
+  {
+    "date": "2021-01-13 22:33:20.515",
+    "totalTipeYangDibeli": 2,
+    "totalLaptopYangDibeli": 1,
+    "totalHarga": 5750000
+  },
+  {
+    "date": "2021-01-13 22:43:58.787",
+    "totalTipeYangDibeli": 3,
+    "totalLaptopYangDibeli": 1,
+    "totalHarga": 9099000
+  },
+  {
+    "date": "2021-01-13 23:14:19.560",
+    "totalTipeYangDibeli": 3,
+    "totalLaptopYangDibeli": 32,
+    "totalHarga": 153728000
+  },
+  {
+    "date": "2021-01-13 23:19:37.288",
+    "totalTipeYangDibeli": 3,
+    "totalLaptopYangDibeli": 44,
+    "totalHarga": 674981000
+  },
+  {
+    "date": "2021-01-14 17:58:29.706",
+    "totalTipeYangDibeli": 3,
+    "totalLaptopYangDibeli": 82,
+    "totalHarga": 1009087000
+  },
+  {
+    "date": "2021-01-14 23:33:11.176",
+    "totalTipeYangDibeli": 3,
+    "totalLaptopYangDibeli": 17,
+    "totalHarga": 1159997000
+  },
+  {
+    "date": "2021-01-14 23:41:30.931",
+    "totalTipeYangDibeli": 4,
+    "totalLaptopYangDibeli": 32,
+    "totalHarga": 2230850000
+  },
+  {
+    "date": "2021-01-14 23:56:35.378",
+    "totalTipeYangDibeli": 3,
+    "totalLaptopYangDibeli": 77,
+    "totalHarga": 519531000
+  },
+  {
+    "date": "2021-01-15 21:37:24.665",
+    "totalTipeYangDibeli": 3,
+    "totalLaptopYangDibeli": 10,
+    "totalHarga": 598000000
+  },
+  {
+    "date": "2021-01-15 21:38:32.237",
+    "totalTipeYangDibeli": 1,
+    "totalLaptopYangDibeli": 10,
+    "totalHarga": 598000000
+  },
+  {
+    "date": "2021-01-15 21:41:17.039",
+    "totalTipeYangDibeli": 4,
+    "totalLaptopYangDibeli": 75,
+    "totalHarga": 321320000
+  }
+]

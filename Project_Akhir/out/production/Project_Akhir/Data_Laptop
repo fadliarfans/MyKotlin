@@ -1,0 +1,22 @@
+[
+  {
+    "merek": "Lenovo",
+    "jenis": "L420",
+    "processor": "i5-2520M",
+    "ram": 4,
+    "rom": 256,
+    "vga": "Intel HD 3000",
+    "stok": 10,
+    "harga": 3000000
+  },
+  {
+    "merek": "Lenovo",
+    "jenis": "L520",
+    "processor": "i5-3000",
+    "ram": 16,
+    "rom": 512,
+    "vga": "Intel HD 4000",
+    "stok": 15,
+    "harga": 4000000
+  }
+]
