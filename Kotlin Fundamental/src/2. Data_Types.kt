@@ -24,10 +24,4 @@ fun main(){
     println("String  : $i")
     println("Int     : $k")
     println("String  : $l")
-
-
-
-
-
-
 }

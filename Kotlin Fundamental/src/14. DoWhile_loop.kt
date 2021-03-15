@@ -3,7 +3,7 @@ fun main(){
     var i = 0
 
     do{
-        println("mantap")
+        print("[i = $i]")
         i++
     }while (i<10)
 }

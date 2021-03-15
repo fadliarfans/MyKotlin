@@ -1,7 +1,6 @@
 fun main(){
     val a = 70
-    val b = arrayOf(90,100)
-
+    
     when(a){
         50 -> println("Very Bad")
         60 -> println("Bad")
@@ -13,6 +12,7 @@ fun main(){
             println("be patient")}
     }
 
+    val b = arrayOf(90,100)
     when(a){
         10,20,30 -> println("study more!!!")
         else -> print("")
