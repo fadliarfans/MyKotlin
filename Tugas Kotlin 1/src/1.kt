@@ -12,7 +12,6 @@ fun main() {
     """.trimIndent())
 
     println("""
-
         Program Pertambahan 2 Variabel antara variabel a = 101, b =52, dan c = 99
         
         Pilih salah satu :
@@ -50,8 +49,5 @@ fun pilihaja(valueA: Int, valueB: Int, valueC: Int, input: Int?):Int {
     }
 
     return result
-
-
-
 }
 

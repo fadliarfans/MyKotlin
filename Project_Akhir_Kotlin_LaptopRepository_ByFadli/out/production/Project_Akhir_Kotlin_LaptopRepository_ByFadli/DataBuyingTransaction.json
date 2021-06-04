@@ -1,1 +1,52 @@
-[]
+[
+  {
+    "date": "2021-01-31 12:02:59",
+    "totalTipeYangDibeli": 2,
+    "totalLaptopYangDibeli": 40,
+    "totalHarga": 190000000,
+    "laptopListBackup": {
+      "list": [
+        {
+          "merek": "lenovo",
+          "tipe": "a10",
+          "stok": 10
+        },
+        {
+          "merek": "lenovo",
+          "tipe": "a20",
+          "stok": 30
+        }
+      ]
+    }
+  },
+  {
+    "date": "2021-01-31 12:03:19",
+    "totalTipeYangDibeli": 1,
+    "totalLaptopYangDibeli": 30,
+    "totalHarga": 150000000,
+    "laptopListBackup": {
+      "list": [
+        {
+          "merek": "lenovo",
+          "tipe": "a20",
+          "stok": 30
+        }
+      ]
+    }
+  },
+  {
+    "date": "2021-01-31 12:03:55",
+    "totalTipeYangDibeli": 1,
+    "totalLaptopYangDibeli": 10,
+    "totalHarga": 50000000,
+    "laptopListBackup": {
+      "list": [
+        {
+          "merek": "acer",
+          "tipe": "b10",
+          "stok": 10
+        }
+      ]
+    }
+  }
+]
